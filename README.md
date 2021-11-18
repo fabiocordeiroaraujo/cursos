@@ -1,6 +1,4 @@
-# Formações
-
-## 1. Introdução
+## 1. Fundamentos
 
 ID   | Nome | Sigla
 --------- | ------ | ------
